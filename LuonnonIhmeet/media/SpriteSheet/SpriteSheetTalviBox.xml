@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:f39a78d269adb793411c8547ad07e426:925e7adcc3a18eca2fe7fbd1eba7f56b:ae0f939ec462477fc8c86dee5a05fd49$ -->
+<TextureAtlas imagePath="SpriteSheetTalviBox.png">
+    <SubTexture name="Ilves" x="2" y="2" width="722" height="621"/>
+    <SubTexture name="Karppa" x="726" y="2" width="722" height="621"/>
+    <SubTexture name="Kuusi" x="1450" y="2" width="722" height="621"/>
+    <SubTexture name="Lumikko" x="2174" y="2" width="722" height="621"/>
+    <SubTexture name="Manty" x="2" y="625" width="722" height="621"/>
+    <SubTexture name="Metso" x="2898" y="625" width="720" height="621"/>
+    <SubTexture name="Naakka" x="726" y="625" width="722" height="621"/>
+    <SubTexture name="Naali" x="2898" y="1248" width="720" height="621"/>
+    <SubTexture name="Naata" x="1450" y="625" width="722" height="621"/>
+    <SubTexture name="NimiTalvi_1" x="2919" y="1871" width="70" height="26"/>
+    <SubTexture name="NimiTalvi_10" x="1350" y="1871" width="131" height="26"/>
+    <SubTexture name="NimiTalvi_11" x="2099" y="1871" width="113" height="33"/>
+    <SubTexture name="NimiTalvi_12" x="1451" y="1899" width="98" height="26"/>
+    <SubTexture name="NimiTalvi_13" x="1551" y="1899" width="95" height="26"/>
+    <SubTexture name="NimiTalvi_14" x="1615" y="1871" width="123" height="26"/>
+    <SubTexture name="NimiTalvi_15" x="2214" y="1871" width="100" height="33"/>
+    <SubTexture name="NimiTalvi_16" x="2415" y="1871" width="96" height="33"/>
+    <SubTexture name="NimiTalvi_17" x="1648" y="1899" width="86" height="26"/>
+    <SubTexture name="NimiTalvi_18" x="1736" y="1899" width="86" height="26"/>
+    <SubTexture name="NimiTalvi_19" x="1740" y="1871" width="119" height="26"/>
+    <SubTexture name="NimiTalvi_2" x="1212" y="1871" width="136" height="33"/>
+    <SubTexture name="NimiTalvi_20" x="2684" y="1871" width="78" height="26"/>
+    <SubTexture name="NimiTalvi_21" x="1483" y="1871" width="130" height="26"/>
+    <SubTexture name="NimiTalvi_22" x="2764" y="1871" width="78" height="26"/>
+    <SubTexture name="NimiTalvi_23" x="2602" y="1871" width="80" height="26"/>
+    <SubTexture name="NimiTalvi_24" x="1911" y="1899" width="67" height="26"/>
+    <SubTexture name="NimiTalvi_25" x="2991" y="1871" width="70" height="21"/>
+    <SubTexture name="NimiTalvi_26" x="2513" y="1871" width="87" height="27"/>
+    <SubTexture name="NimiTalvi_27" x="589" y="1899" width="132" height="21"/>
+    <SubTexture name="NimiTalvi_28" x="2844" y="1871" width="73" height="26"/>
+    <SubTexture name="NimiTalvi_29" x="3063" y="1871" width="67" height="26"/>
+    <SubTexture name="NimiTalvi_3" x="1824" y="1899" width="85" height="26"/>
+    <SubTexture name="NimiTalvi_30" x="1350" y="1899" width="99" height="26"/>
+    <SubTexture name="NimiTalvi_31" x="2" y="1899" width="174" height="26"/>
+    <SubTexture name="NimiTalvi_32" x="210" y="1871" width="190" height="33"/>
+    <SubTexture name="NimiTalvi_33" x="589" y="1871" width="163" height="26"/>
+    <SubTexture name="NimiTalvi_34" x="1861" y="1871" width="118" height="26"/>
+    <SubTexture name="NimiTalvi_35" x="1451" y="1899" width="98" height="26"/>
+    <SubTexture name="NimiTalvi_36" x="2099" y="1871" width="113" height="33"/>
+    <SubTexture name="NimiTalvi_37" x="1911" y="1899" width="67" height="26"/>
+    <SubTexture name="NimiTalvi_38" x="2316" y="1871" width="97" height="33"/>
+    <SubTexture name="NimiTalvi_39" x="2764" y="1871" width="78" height="26"/>
+    <SubTexture name="NimiTalvi_4" x="1648" y="1899" width="86" height="26"/>
+    <SubTexture name="NimiTalvi_40" x="402" y="1871" width="185" height="33"/>
+    <SubTexture name="NimiTalvi_41" x="754" y="1871" width="153" height="33"/>
+    <SubTexture name="NimiTalvi_42" x="1062" y="1871" width="148" height="33"/>
+    <SubTexture name="NimiTalvi_43" x="909" y="1871" width="151" height="33"/>
+    <SubTexture name="NimiTalvi_44" x="2" y="1871" width="206" height="26"/>
+    <SubTexture name="NimiTalvi_45" x="2" y="1899" width="174" height="26"/>
+    <SubTexture name="NimiTalvi_5" x="2415" y="1871" width="96" height="33"/>
+    <SubTexture name="NimiTalvi_6" x="1736" y="1899" width="86" height="26"/>
+    <SubTexture name="NimiTalvi_7" x="2513" y="1871" width="87" height="27"/>
+    <SubTexture name="NimiTalvi_8" x="1980" y="1901" width="81" height="22"/>
+    <SubTexture name="NimiTalvi_9" x="1981" y="1871" width="116" height="28"/>
+    <SubTexture name="Poro" x="2174" y="625" width="722" height="621"/>
+    <SubTexture name="Punatulkku" x="2" y="1248" width="722" height="621"/>
+    <SubTexture name="Saukko" x="2898" y="2" width="721" height="621"/>
+    <SubTexture name="Susi" x="726" y="1248" width="722" height="621"/>
+    <SubTexture name="Tunturipollo" x="1450" y="1248" width="722" height="621"/>
+    <SubTexture name="Varpunen" x="2174" y="1248" width="722" height="621"/>
+</TextureAtlas>

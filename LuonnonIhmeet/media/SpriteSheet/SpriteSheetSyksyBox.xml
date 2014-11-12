@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:811d99563528f41e9bf22c862df124ba:4711c4a054744edca94e912ffa2e3a8d:36937d8cd340a61b038b797359e9c1b6$ -->
+<TextureAtlas imagePath="SpriteSheetSyksyBox.png">
+    <SubTexture name="Fasaani" x="2" y="2" width="722" height="621"/>
+    <SubTexture name="Herkkutatti" x="726" y="2" width="722" height="621"/>
+    <SubTexture name="Hirvi" x="1450" y="2" width="722" height="621"/>
+    <SubTexture name="Karpassieni" x="2174" y="2" width="722" height="621"/>
+    <SubTexture name="Keltavahvero" x="2898" y="2" width="722" height="621"/>
+    <SubTexture name="Kettu" x="2" y="625" width="722" height="621"/>
+    <SubTexture name="Mayra" x="2174" y="1248" width="721" height="621"/>
+    <SubTexture name="Metsakauris" x="726" y="625" width="722" height="621"/>
+    <SubTexture name="Minkki" x="2897" y="1248" width="720" height="621"/>
+    <SubTexture name="Mustikka" x="1450" y="625" width="722" height="621"/>
+    <SubTexture name="NimiSyksy_1" x="2844" y="1871" width="123" height="26"/>
+    <SubTexture name="NimiSyksy_10" x="1107" y="1871" width="207" height="26"/>
+    <SubTexture name="NimiSyksy_11" x="859" y="1871" width="246" height="33"/>
+    <SubTexture name="NimiSyksy_12" x="2398" y="1871" width="164" height="26"/>
+    <SubTexture name="NimiSyksy_13" x="3457" y="1871" width="80" height="26"/>
+    <SubTexture name="NimiSyksy_14" x="3183" y="1899" width="67" height="26"/>
+    <SubTexture name="NimiSyksy_15" x="2" y="1871" width="314" height="33"/>
+    <SubTexture name="NimiSyksy_16" x="1885" y="1871" width="172" height="33"/>
+    <SubTexture name="NimiSyksy_17" x="2229" y="1871" width="167" height="26"/>
+    <SubTexture name="NimiSyksy_18" x="2398" y="1871" width="164" height="26"/>
+    <SubTexture name="NimiSyksy_19" x="1107" y="1899" width="191" height="26"/>
+    <SubTexture name="NimiSyksy_2" x="1709" y="1871" width="174" height="26"/>
+    <SubTexture name="NimiSyksy_20" x="3183" y="1871" width="93" height="26"/>
+    <SubTexture name="NimiSyksy_21" x="318" y="1871" width="269" height="33"/>
+    <SubTexture name="NimiSyksy_22" x="2714" y="1899" width="98" height="26"/>
+    <SubTexture name="NimiSyksy_23" x="2969" y="1871" width="113" height="33"/>
+    <SubTexture name="NimiSyksy_24" x="2376" y="1899" width="131" height="26"/>
+    <SubTexture name="NimiSyksy_25" x="565" y="1906" width="115" height="22"/>
+    <SubTexture name="NimiSyksy_26" x="195" y="1906" width="127" height="22"/>
+    <SubTexture name="NimiSyksy_27" x="1316" y="1871" width="205" height="28"/>
+    <SubTexture name="NimiSyksy_28" x="3084" y="1871" width="97" height="33"/>
+    <SubTexture name="NimiSyksy_29" x="2564" y="1871" width="148" height="33"/>
+    <SubTexture name="NimiSyksy_3" x="2814" y="1899" width="95" height="26"/>
+    <SubTexture name="NimiSyksy_30" x="3278" y="1871" width="93" height="26"/>
+    <SubTexture name="NimiSyksy_31" x="324" y="1906" width="120" height="22"/>
+    <SubTexture name="NimiSyksy_32" x="446" y="1906" width="117" height="22"/>
+    <SubTexture name="NimiSyksy_33" x="2" y="1906" width="191" height="22"/>
+    <SubTexture name="NimiSyksy_34" x="1300" y="1901" width="178" height="26"/>
+    <SubTexture name="NimiSyksy_35" x="2059" y="1871" width="168" height="33"/>
+    <SubTexture name="NimiSyksy_36" x="2714" y="1871" width="128" height="26"/>
+    <SubTexture name="NimiSyksy_37" x="2509" y="1899" width="53" height="26"/>
+    <SubTexture name="NimiSyksy_38" x="3373" y="1871" width="82" height="26"/>
+    <SubTexture name="NimiSyksy_39" x="2229" y="1899" width="145" height="26"/>
+    <SubTexture name="NimiSyksy_4" x="2229" y="1871" width="167" height="26"/>
+    <SubTexture name="NimiSyksy_40" x="2564" y="1871" width="148" height="33"/>
+    <SubTexture name="NimiSyksy_41" x="3084" y="1871" width="97" height="33"/>
+    <SubTexture name="NimiSyksy_42" x="1709" y="1899" width="168" height="26"/>
+    <SubTexture name="NimiSyksy_43" x="589" y="1871" width="268" height="33"/>
+    <SubTexture name="NimiSyksy_44" x="1523" y="1871" width="184" height="33"/>
+    <SubTexture name="NimiSyksy_45" x="2398" y="1871" width="164" height="26"/>
+    <SubTexture name="NimiSyksy_5" x="859" y="1871" width="246" height="33"/>
+    <SubTexture name="NimiSyksy_6" x="859" y="1871" width="246" height="33"/>
+    <SubTexture name="NimiSyksy_7" x="3252" y="1899" width="67" height="26"/>
+    <SubTexture name="NimiSyksy_8" x="3183" y="1871" width="93" height="26"/>
+    <SubTexture name="NimiSyksy_9" x="3539" y="1871" width="73" height="26"/>
+    <SubTexture name="Puolukka" x="2174" y="625" width="722" height="621"/>
+    <SubTexture name="Sammakko" x="2898" y="625" width="722" height="621"/>
+    <SubTexture name="Siili" x="2" y="1248" width="722" height="621"/>
+    <SubTexture name="Supikoira" x="726" y="1248" width="722" height="621"/>
+    <SubTexture name="Valkokarpassieni" x="1450" y="1248" width="722" height="621"/>
+</TextureAtlas>

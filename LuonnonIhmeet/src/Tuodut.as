@@ -50,11 +50,29 @@ package
 		private static var gameTextures:Dictionary = new Dictionary();
 		private static var gameTextureAtlas:TextureAtlas;
 		
-		/*[Embed(source="../media/TietoBoksit/TIEDOSTONIMI TÄHÄN")]
-		public static const TietoBoksit:Class
+		[Embed(source="../media/SpriteSheet/SpriteSheetKevatBox.png")]
+		public static const KevatBox:Class
 		
-		[Embed(source="../media/TietoBoksit/TIEDOSTONIMI TÄHÄN", mimeType="application/octet-stream")]
-		public static const TietoBoksit:Class;*/
+		[Embed(source="../media/SpriteSheet/SpriteSheetKevatBox.png", mimeType="application/octet-stream")]
+		public static const KevatBoxXML:Class;
+		
+		[Embed(source="../media/SpriteSheet/SpriteSheetKesaBox.png")]
+		public static const KesaBox:Class
+		
+		[Embed(source="../media/SpriteSheet/SpriteSheetKesaBox.png", mimeType="application/octet-stream")]
+		public static const KesaBoxXML:Class;
+		
+		[Embed(source="../media/SpriteSheet/SpriteSheetSyksyBox.png")]
+		public static const SyksyBox:Class
+		
+		[Embed(source="../media/SpriteSheet/SpriteSheetSyksyBox.png", mimeType="application/octet-stream")]
+		public static const SyksyBoxXML:Class;
+		
+		[Embed(source="../media/SpriteSheet/SpriteSheetTalviBox.png")]
+		public static const TalviBox:Class
+		
+		[Embed(source="../media/SpriteSheet/SpriteSheetTalviBox.png", mimeType="application/octet-stream")]
+		public static const TalviBoxXML:Class;
 		
 		public static function getTexture(name:String):Texture
 		{

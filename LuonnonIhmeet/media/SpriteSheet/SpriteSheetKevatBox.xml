@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with TexturePacker http://www.codeandweb.com/texturepacker-->
+<!-- $TexturePacker:SmartUpdate:7ddce0234925e36572045bcc83ea7e9e:86608e097dfd8ddc44d46a2ac8df4c89:04d31dee0c3a1c71f9b50be7b165533d$ -->
+<TextureAtlas imagePath="SpriteSheetKevatBox.png">
+    <SubTexture name="Ahven" x="2" y="2" width="722" height="621"/>
+    <SubTexture name="Ampiainen" x="726" y="2" width="722" height="621"/>
+    <SubTexture name="Hauki" x="1450" y="2" width="722" height="621"/>
+    <SubTexture name="Keltavuokko" x="2174" y="2" width="722" height="621"/>
+    <SubTexture name="Laulujoutsen" x="2898" y="2" width="722" height="621"/>
+    <SubTexture name="Lohi" x="2" y="625" width="722" height="621"/>
+    <SubTexture name="Muurahainen" x="726" y="625" width="722" height="621"/>
+    <SubTexture name="NimiKevat_ 7" x="3153" y="1899" width="87" height="26"/>
+    <SubTexture name="NimiKevat_1" x="3062" y="1871" width="100" height="26"/>
+    <SubTexture name="NimiKevat_10" x="1225" y="1899" width="193" height="26"/>
+    <SubTexture name="NimiKevat_11" x="2705" y="1871" width="133" height="33"/>
+    <SubTexture name="NimiKevat_12" x="703" y="1906" width="143" height="26"/>
+    <SubTexture name="NimiKevat_13" x="1644" y="1871" width="200" height="33"/>
+    <SubTexture name="NimiKevat_14" x="1001" y="1871" width="222" height="33"/>
+    <SubTexture name="NimiKevat_15" x="3062" y="1899" width="89" height="26"/>
+    <SubTexture name="NimiKevat_16" x="3554" y="1871" width="64" height="26"/>
+    <SubTexture name="NimiKevat_17" x="3153" y="1899" width="87" height="26"/>
+    <SubTexture name="NimiKevat_18" x="3364" y="1871" width="94" height="26"/>
+    <SubTexture name="NimiKevat_19" x="1436" y="1871" width="206" height="26"/>
+    <SubTexture name="NimiKevat_2" x="3413" y="1899" width="79" height="26"/>
+    <SubTexture name="NimiKevat_20" x="272" y="1871" width="266" height="33"/>
+    <SubTexture name="NimiKevat_21" x="2" y="1906" width="175" height="26"/>
+    <SubTexture name="NimiKevat_22" x="2" y="1871" width="268" height="33"/>
+    <SubTexture name="NimiKevat_23" x="1420" y="1899" width="180" height="33"/>
+    <SubTexture name="NimiKevat_24" x="540" y="1871" width="232" height="33"/>
+    <SubTexture name="NimiKevat_25" x="2024" y="1871" width="175" height="33"/>
+    <SubTexture name="NimiKevat_26" x="2955" y="1871" width="105" height="33"/>
+    <SubTexture name="NimiKevat_27" x="1096" y="1906" width="104" height="26"/>
+    <SubTexture name="NimiKevat_28" x="1225" y="1871" width="209" height="26"/>
+    <SubTexture name="NimiKevat_29" x="1846" y="1871" width="176" height="33"/>
+    <SubTexture name="NimiKevat_3" x="3265" y="1871" width="97" height="26"/>
+    <SubTexture name="NimiKevat_30" x="3242" y="1899" width="86" height="26"/>
+    <SubTexture name="NimiKevat_31" x="3494" y="1899" width="76" height="26"/>
+    <SubTexture name="NimiKevat_32" x="3554" y="1871" width="64" height="26"/>
+    <SubTexture name="NimiKevat_33" x="3413" y="1899" width="79" height="26"/>
+    <SubTexture name="NimiKevat_34" x="3460" y="1871" width="92" height="26"/>
+    <SubTexture name="NimiKevat_35" x="3164" y="1871" width="99" height="26"/>
+    <SubTexture name="NimiKevat_36" x="848" y="1906" width="125" height="26"/>
+    <SubTexture name="NimiKevat_37" x="1420" y="1899" width="180" height="33"/>
+    <SubTexture name="NimiKevat_38" x="2" y="1871" width="268" height="33"/>
+    <SubTexture name="NimiKevat_39" x="2705" y="1871" width="133" height="33"/>
+    <SubTexture name="NimiKevat_4" x="2201" y="1871" width="168" height="33"/>
+    <SubTexture name="NimiKevat_40" x="774" y="1871" width="225" height="33"/>
+    <SubTexture name="NimiKevat_41" x="179" y="1906" width="174" height="26"/>
+    <SubTexture name="NimiKevat_42" x="975" y="1906" width="119" height="26"/>
+    <SubTexture name="NimiKevat_43" x="2371" y="1871" width="165" height="33"/>
+    <SubTexture name="NimiKevat_44" x="2840" y="1871" width="113" height="33"/>
+    <SubTexture name="NimiKevat_45" x="2538" y="1871" width="165" height="33"/>
+    <SubTexture name="NimiKevat_5" x="531" y="1906" width="170" height="26"/>
+    <SubTexture name="NimiKevat_6" x="355" y="1906" width="174" height="26"/>
+    <SubTexture name="NimiKevat_8" x="3062" y="1871" width="100" height="26"/>
+    <SubTexture name="NimiKevat_9" x="3330" y="1899" width="81" height="26"/>
+    <SubTexture name="Nokkosperhonen" x="1450" y="625" width="722" height="621"/>
+    <SubTexture name="Omenapuu" x="2174" y="625" width="722" height="621"/>
+    <SubTexture name="Osmankaami" x="2898" y="625" width="722" height="621"/>
+    <SubTexture name="Siika" x="2" y="1248" width="722" height="621"/>
+    <SubTexture name="Sorsa" x="726" y="1248" width="722" height="621"/>
+    <SubTexture name="Suruvaippa" x="1450" y="1248" width="722" height="621"/>
+    <SubTexture name="Toyhtohyyppa" x="2174" y="1248" width="722" height="621"/>
+    <SubTexture name="Vesimyyra" x="2898" y="1248" width="722" height="621"/>
+</TextureAtlas>
