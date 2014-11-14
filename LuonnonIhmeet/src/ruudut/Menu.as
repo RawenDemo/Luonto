@@ -28,6 +28,7 @@ package ruudut
 		{
 			drawScreen();
 		}
+		
 		private function drawScreen():void
 		{
 			bgMenu = new Image(Tuodut.getTexture("BgMenu"));
@@ -57,7 +58,7 @@ package ruudut
 			this.addEventListener(Event.TRIGGERED, onMenuClick2);
 			this.addEventListener(Event.TRIGGERED, onMenuClick3);
 		}
-		
+
 		private function onMenuClick(event:Event):void
 		{
 			var buttonClicked:Button = event.target as Button;

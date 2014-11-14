@@ -3,7 +3,7 @@ package
 	import events.NavigationEvent;
 	
 	import ruudut.Menu;
-	import ruudut.Peli;
+	import ruudut.KevatPeli;
 	import ruudut.Ohjeet;
 	import ruudut.Tekijat;
 	
@@ -13,7 +13,7 @@ package
 	public class Game extends Sprite
 	{
 		private var screenMenu:Menu;
-		private var screenPeli:Peli;
+		private var screenKevatPeli:KevatPeli;
 		private var screenOhjeet:Ohjeet;
 		private var screenTekijat:Tekijat;
 		
@@ -31,9 +31,9 @@ package
 			this.addChild(screenMenu);
 			screenMenu.initialize();
 			
-			screenPeli = new Peli();
-			screenPeli.disposeTemporarily();
-			this.addChild(screenPeli);
+			screenKevatPeli = new KevatPeli();
+			screenKevatPeli.disposeTemporarily();
+			this.addChild(screenKevatPeli);
 			
 			screenOhjeet = new Ohjeet();
 			screenOhjeet.disposeTemporarily();
@@ -49,7 +49,7 @@ package
 			{
 				case "peli":
 					screenMenu.disposeTemporarily();
-					screenPeli.initialize();
+					screenKevatPeli.initialize();
 					break;
 				
 				case "ohjeet":
