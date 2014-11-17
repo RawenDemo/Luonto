@@ -38,7 +38,7 @@ package
 		[Embed(source="../media/Menu/Ohjeet.png")]
 		public static const OhjeetRuutu:Class;
 		
-		[Embed(source="../media/Menu/Tekijät.png")]
+		[Embed(source="../media/Menu/Tekijat.png")]
 		public static const TekijatRuutu:Class;
 		
 		[Embed(source="../media/Menu/TakNappi.png")]
