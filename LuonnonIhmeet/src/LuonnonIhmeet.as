@@ -13,7 +13,7 @@ package
 		
 		public function LuonnonIhmeet()
 		{
-			myStarling = new Starling(Game, stage);
+			myStarling = new Starling(ruudut.KevatPeli, stage);
 			myStarling.antiAliasing = 1;
 			myStarling.start();
 		}

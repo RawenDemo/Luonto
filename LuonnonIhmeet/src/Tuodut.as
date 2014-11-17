@@ -48,8 +48,14 @@ package
 		[Embed(source="../media/Kevat/tausta.png")]
 		public static const tausta:Class;
 		
-		[Embed(source="../media/Kevat/kevatmaasto.png")]
-		public static const kevatmaasto:Class;
+		[Embed(source="../media/Kevat/kevatmaasto_1.png")]
+		public static const kevatmaasto_1:Class;
+		
+		[Embed(source="../media/Kevat/kevatmaasto_2.png")]
+		public static const kevatmaasto_2:Class;
+		
+		[Embed(source="../media/Kevat/kivet.png")]
+		public static const kivet:Class;
 		
 		[Embed(source="../media/Kevat/koivu_1.png")]
 		public static const koivu_1:Class;
@@ -57,10 +63,28 @@ package
 		[Embed(source="../media/Kevat/koivu_2.png")]
 		public static const koivu_2:Class;
 		
+		[Embed(source="../media/Kevat/oksat_1.png")]
+		public static const oksat_1:Class;
+		
+		[Embed(source="../media/Kevat/oksat_2.png")]
+		public static const oksat_2:Class;
+		
+		[Embed(source="../media/Kevat/puska_1.png")]
+		public static const puska_1:Class;
+		
+		[Embed(source="../media/Kevat/puska_2.png")]
+		public static const puska_2:Class;
+		
+		[Embed(source="../media/Kevat/omenapuu.png")]
+		public static const omenapuu:Class;
+		
+		[Embed(source="../media/Kevat/johanna.png")]
+		public static const johanna:Class;
+		
 		private static var gameTextures:Dictionary = new Dictionary();
 		private static var gameTextureAtlas:TextureAtlas;
 		
-		/*[Embed(source="../media/SpriteSheet/SpriteSheetKevatMaa.png")]
+		[Embed(source="../media/SpriteSheet/SpriteSheetKevatMaa.png")]
 		public static const KevatMaa:Class
 		
 		[Embed(source="../media/SpriteSheet/SpriteSheetKevatMaa.xml", mimeType="application/octet-stream")]
@@ -75,7 +99,7 @@ package
 				gameTextureAtlas = new TextureAtlas(texture, xml);
 			}
 			return gameTextureAtlas;
-		}*/
+		}
 		
 		public static function getTexture(name:String):Texture
 		{
