@@ -100,76 +100,7 @@ package ruudut
 			this.addChild(johanna);
 		}
 		
-		//will represent the "state" of "moving down"
-		private var movingDown:Boolean = false;
-		private var rightDown:Boolean = false;
-		private var leftDown:Boolean = false;
-		private var upDown:Boolean = false;
 		
-		//called once when the app starts
-		private function init():void
-		{
-			stage.addEventListener(KeyboardEvent.KEY_DOWN, _handleKeyDown);
-			stage.addEventListener(KeyboardEvent.KEY_UP, _handleKeyUp);
-		}
-		
-		private function _handleKeyDown(e:KeyboardEvent):void
-		{
-			if(e.keyCode == 39)
-				rightDown = true;
-			
-			if(e.keyCode == 37)
-				leftDown = true;
-			
-			if(e.keyCode == 38)
-				upDown = true;
-		}
-		
-		private function _handleKeyUp(e:KeyboardEvent):void
-		{
-			if(e.keyCode == 39)
-				rightDown = false;
-			
-			if(e.keyCode == 37)
-				leftDown = false;
-			
-			if(e.keyCode == 38)
-				upDown = false;
-		}
-		
-		//listener to the enter frame event
-		private function update():void
-		{
-			if(rightDown)
-			{
-				johanna.x -= 10;
-			}
-			
-			else if(!rightDown)
-			{
-				trace("I am not moving right.");
-			}
-				
-			else if(leftDown)
-			{
-				johanna.x += 10;
-			}
-			
-			else if(!leftDown)
-			{
-				trace("I am not moving left.");
-			}
-			
-			else if(upDown)
-			{
-				johanna.y -= 10;
-			}
-			
-			else if(!upDown)
-			{
-				trace("I am not moving up.");
-			}
-		}
 		
 		public function disposeTemporarily():void
 		{
